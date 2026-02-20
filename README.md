@@ -30,6 +30,6 @@ Muitas falhas críticas em grandes implementações Salesforce (como vazamento d
 Um dos grandes diferenciais deste projeto foi o cuidado com a apresentação e o acompanhamento das entregas. Entendo que, no ecossistema Salesforce, a documentação é tão importante quanto a configuração técnica.
 Por isso, além da execução na Org, dediquei atenção especial a dois pilares de organização profissional:
 * Relatório Técnico de Alta Fidelidade: Desenvolvi um relatório completo utilizando a identidade visual da Salesforce (via Canva), documentando não apenas o "o quê" foi feito, mas o "porquê" de cada decisão de governança.
-Para conferir o passo a passo completo, as análises de dados e a metodologia aplicada neste projeto, acesse o relatório final: 👉 [**Baixar Relatório Completo (PDF)**](./relatorio_projeto_L1_001.pdf.pdf/)
+Para conferir o passo a passo completo, as análises de dados e a metodologia aplicada neste projeto, acesse o relatório final: 👉 [**Clique aqui para visualizar o Relatório Técnico Completo (PDF)**](./pdf/relatorio_projeto_L1_001.pdf)
 * Checklist de Excelência: Para garantir o padrão de qualidade L1, implementei um Status de Entrega detalhado. Esse checklist serviu como meu guia de QA, assegurando que cada requisito — desde a criação do usuário João Silva até as travas de segurança — fosse validado e concluído com sucesso.
 ![img00001](img/00001.png)
