@@ -1,4 +1,5 @@
 ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
 
@@ -25,6 +26,7 @@ Muitas falhas críticas em grandes implementações Salesforce (como vazamento d
 * Login As: Habilitação de login administrativo para validação da experiência do usuário (João Silva) e testes de segurança.
 3. Design e Documentação:
 * Canva: Ferramenta utilizada para o design e diagramação do Relatório Técnico, garantindo uma comunicação visual clara e profissional das entregas.
+* Microsoft Excel: Ferramenta estratégica utilizada para a criação e gestão do Checklist de Excelência, garantindo o controle rigoroso de cada etapa da entrega.
 
 ## 📊 Status das Entregas e Relatório Técnico de Alta Fidelidade:
 Um dos grandes diferenciais deste projeto foi o cuidado com a apresentação e o acompanhamento das entregas. Entendo que, no ecossistema Salesforce, a documentação é tão importante quanto a configuração técnica.
